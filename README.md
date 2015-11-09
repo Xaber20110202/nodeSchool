@@ -4,4 +4,4 @@
 
 * [learnyounode](https://github.com/workshopper/learnyounode) 2015-09-16 -- 2015-09-19
 * [stream-adventure](https://github.com/substack/stream-adventure) 2015-09-25 -- 
-* [kick-off-koa](https://github.com/koajs/kick-off-koa) 2015-11-08 -- 
+* [kick-off-koa](https://github.com/koajs/kick-off-koa) 2015-11-08 -- 2015-11-09
