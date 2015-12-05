@@ -1,0 +1,3 @@
+// 模版特性 http://es6.ruanyifeng.com/#docs/string
+console.log(`Hello, ${process.argv[2]}!
+Your name lowercased is "${process.argv[2].toLowerCase()}".`);
